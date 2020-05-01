@@ -1,4 +1,4 @@
-import tkinter as tk  # 使用Tkinter前需要先导入
+﻿import tkinter as tk  # 使用Tkinter前需要先导入
 import re
 
 # 第1步，实例化object，建立窗口window
@@ -95,4 +95,4 @@ t = tk.Text(window, font=('宋体', 20), width=38, height=8)
 t.place(x=100, y=210, anchor='nw')
 
 # 第8步，主窗口循环显示
-window.mainloop() 
+window.mainloop() 111111111111111111
